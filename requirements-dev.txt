@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+pytest
+=======
+pytest
+>>>>>>> 489f4fa (Initial commit)
+flake8

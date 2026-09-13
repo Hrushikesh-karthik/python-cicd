@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+venv
+.venv
+helm
+=======
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+venv
+.venv
+helm
+>>>>>>> 489f4fa (Initial commit)
+tests
